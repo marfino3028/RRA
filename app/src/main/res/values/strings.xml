@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Resep Rumah Arief</string>
+
+    <string name="facebook_app_id">272187806804110</string>
+    <string name="fb_login_protocol_scheme">fb272187806804110</string>
+
+
+
+</resources>
